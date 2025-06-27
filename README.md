@@ -29,17 +29,6 @@ Este projeto utiliza técnicas de Inteligência Artificial em Python para analis
 
 ---
 
-## 🚀 Como executar
-
-1. Clone o repositório
-2. Instale as dependências
-3. Execute o notebook `inicial.ipynb`
-
-```bash
-git clone https://github.com/tamirisrbarbosa/Python_IA-Analise_de_Score.git
-```
----
-
 ## 💁‍♀️ Sobre mim
 Oi! Eu sou a Iris (Tamiris Barbosa) e estou em transição de carreira para área de desenvolvimento. 
 
