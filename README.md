@@ -90,7 +90,7 @@ Resultados reais das acurácias obtidas com os modelos treinados a partir dos da
 ---
 
 ## 👩‍💻 Sobre mim
-Sou Tamiris Barbosa, estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para a área tech. Tenho interesse em desenvolvimento backend, análise de dados e automações inteligentes.
+Sou Tamiris Barbosa, estudante de Análise e Desenvolvimento de Sistemas em transição de carreira para a área tech.
 
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/tamirisrodriguesbarbosa)
 
